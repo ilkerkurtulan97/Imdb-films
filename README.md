@@ -1,4 +1,7 @@
-# Getting Started with Create React App
+#Description
+ In this project useState and useEffect hooks are used. To keep the favourite films on display, "saveToLocalStorage" function is created. Lastly, for the styling and svg images, bootstrap is used.
+
+## Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
